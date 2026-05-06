@@ -1,8 +1,5 @@
 # profile-title: SneakyVPN
 # profile-update-interval: 1
-# Date/Time: 2026-05-06 / 11:36 (Moscow)
-# Количество: 150
-# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 vless://08398f07-808c-4dd5-a535-1886e1837cc8@91.219.227.203:8444?encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%8C%9F%20BrawlStars%20%F0%9F%8C%9F
 vless://bcae455a-efd6-007c-bead-4b173b8e5e5a@109.248.33.240:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#%F0%9F%8C%9F%20BrawlStars%20%F0%9F%8C%9F
