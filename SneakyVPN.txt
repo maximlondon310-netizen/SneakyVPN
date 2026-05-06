@@ -1,5 +1,4 @@
 # profile-title: 🐍SneakyVPN🐍
-Mobile-150-(2)
 # profile-update-interval: 1
 # Date/Time: 2026-05-06 / 11:36 (Moscow)
 # Количество: 150
